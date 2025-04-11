@@ -1,2 +1,2 @@
-# Bootstrap-DIO
+# Bootstrap
 Criando páginas web utilizando bootstrap
